@@ -1,0 +1,17 @@
+{
+    "extends": "../../tsconfig.json",
+    "compilerOptions": {
+      "module": "es2020",
+      "moduleResolution": "node",
+      "outDir": "./dist",
+      "baseUrl": "./",
+      "skipLibCheck": true,
+      "target": "es2015"
+    },
+    "angularCompilerOptions": {
+      "genDir": "dist/",
+      "strictMetadataEmit": true,
+      "compilationMode": "partial"
+    }
+}
+  
