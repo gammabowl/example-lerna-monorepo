@@ -1,13 +1,13 @@
 {
     "name": "@gammabowl/example-lerna-monorepo-common",
     "version": "1.0.0",
-    "description": "Shared types between service and client libs.",
+    "description": "Shared types between service and client",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
     "scripts": {
       "build": "rm -rf dist && tsc",
       "lint": "eslint \"**/*.ts\" --fix",
-      "test": "jest",
+      "test": "jest --passWithNoTests",
       "test:watch": "jest --watch",
       "test:cov": "jest --coverage",
       "test:debug": "node --inspect-brk -r tsconfig-paths/register -r ts-node/register node_modules/.bin/jest --runInBand"

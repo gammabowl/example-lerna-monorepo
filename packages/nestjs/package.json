@@ -1,7 +1,7 @@
 {
     "name": "@gammabowl/example-lerna-monorepo-client-nestjs",
     "version": "1.0.0",
-    "description": "NestJS client lib.",
+    "description": "NestJS client lib",
     "main": "dist/nestjs/index.js",
     "typings": "dist/nestjs/index.d.ts",
     "scripts": {

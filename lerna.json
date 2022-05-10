@@ -1,6 +1,12 @@
 {
   "packages": [
-    "packages/*"
+    "packages/angular",
+    "packages/common",
+    "packages/nestjs"
   ],
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "name": "@gammabowl/example-lerna-monorepo-client-angular",
   "version": "1.0.0",
-  "description": "Angular Frontend client for the API",
+  "description": "Angular Frontend client for the service",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {
@@ -58,7 +58,8 @@
     "@angular/core": "~12.2.2",
     "ng-packagr": "~12.2.2",
     "oidc-client": "^1.11.5",
-    "typescript": "^4.3.5"
+    "typescript": "^4.3.5",
+    "esbuild": "^0.14.36"
   },
   "peerDependencies": {
     "@ngrx/store": ">= 12.0.0 < 13",
