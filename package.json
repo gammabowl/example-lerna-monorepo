@@ -1,6 +1,6 @@
 {
   "name": "example-lerna-monorepo",
-  "repository": "git@github.com:gammabowl/example-lerna-monorepo.git",
+  "repository": "https://github.com/gammabowl/example-lerna-monorepo.git",
   "version": "0.0.1",
   "description": "",
   "author": "",
