@@ -2,7 +2,7 @@
   "name": "example-lerna-monorepo",
   "repository": "https://github.com/gammabowl/example-lerna-monorepo.git",
   "version": "0.0.1",
-  "description": "",
+  "description": "Example lerna repo",
   "author": "",
   "license": "MIT License",
   "scripts": {
