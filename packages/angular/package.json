@@ -1,7 +1,7 @@
 {
   "name": "@gammabowl/example-lerna-monorepo-client-angular",
   "version": "1.0.0",
-  "description": "Angular frontend client for the service",
+  "description": "Angular client for the service",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {

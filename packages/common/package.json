@@ -1,7 +1,7 @@
 {
     "name": "@gammabowl/example-lerna-monorepo-common",
     "version": "1.0.0",
-    "description": "Shared types between service & client",
+    "description": "Shared types between service and client",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
     "scripts": {
